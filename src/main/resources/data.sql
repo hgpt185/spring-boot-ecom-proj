@@ -1,0 +1,16 @@
+INSERT INTO product (id, name, description, brand, price, category, release_date, available, quantity) VALUES
+(1, 'iPhone 15 Pro', 'Latest flagship smartphone with A17 Pro chip and titanium design', 'Apple', 999.99, 'Electronics', '2024-09-15', true, 50),
+(2, 'Samsung Galaxy S24', 'Premium Android smartphone with AI features', 'Samsung', 899.99, 'Electronics', '2024-01-20', true, 45),
+(3, 'MacBook Pro 16"', 'Professional laptop with M3 Max chip', 'Apple', 2499.99, 'Computers', '2023-11-01', true, 30),
+(4, 'Dell XPS 15', 'High-performance laptop for creators', 'Dell', 1799.99, 'Computers', '2024-02-10', true, 25),
+(5, 'Sony WH-1000XM5', 'Premium noise-canceling wireless headphones', 'Sony', 399.99, 'Audio', '2023-05-20', true, 100),
+(6, 'AirPods Pro 2', 'Wireless earbuds with active noise cancellation', 'Apple', 249.99, 'Audio', '2023-09-10', true, 150),
+(7, 'iPad Air', 'Versatile tablet with M2 chip', 'Apple', 599.99, 'Tablets', '2024-03-15', true, 60),
+(8, 'Samsung Tab S9', 'Android tablet with S Pen included', 'Samsung', 549.99, 'Tablets', '2023-08-01', true, 40),
+(9, 'PlayStation 5', 'Next-gen gaming console', 'Sony', 499.99, 'Gaming', '2023-12-01', true, 35),
+(10, 'Xbox Series X', 'Powerful gaming console with Game Pass', 'Microsoft', 499.99, 'Gaming', '2023-11-15', true, 30),
+(11, 'Nintendo Switch OLED', 'Portable gaming console with vibrant display', 'Nintendo', 349.99, 'Gaming', '2023-10-01', true, 80),
+(12, 'Logitech MX Master 3S', 'Ergonomic wireless mouse for professionals', 'Logitech', 99.99, 'Accessories', '2023-06-10', true, 120),
+(13, 'Apple Watch Series 9', 'Advanced smartwatch with health tracking', 'Apple', 429.99, 'Wearables', '2023-09-20', true, 70),
+(14, 'Fitbit Charge 6', 'Fitness tracker with Google integration', 'Fitbit', 159.99, 'Wearables', '2023-10-15', true, 90),
+(15, 'Canon EOS R6', 'Professional mirrorless camera', 'Canon', 2499.99, 'Cameras', '2023-07-01', true, 20);
